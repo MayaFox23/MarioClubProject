@@ -5,7 +5,7 @@ body, ul, li, h1, h2, a{
 }
 
 header{
-    background-color: #F63232;
+    background: #410d6e;
     padding: 20px;
     text-align: center;
     position: fixed;
@@ -33,7 +33,7 @@ header h1{
     padding: 30px;
     position: absolute;
     left: 0;
-    top: 30%;
+    top: 40%;
 }
 .banner h2{
     font-size: 74px;
@@ -59,10 +59,11 @@ nav li{
 }
 nav li a{
     text-decoration: none;
-    color: #4b4b4b;
+    color: #cfcaca;
 }
 nav li a.join{
-    color: #F63232;
+    background: #410d6e;
+    color: 
 }
 main{
     max-width: 100%;
@@ -72,7 +73,8 @@ main{
     box-sizing: border-box;
 }
 article h2{
-    color: #F63232;
+    background: #410d6e;
+    color: white;
     font-size: 48px;
 }
 article p{
@@ -109,7 +111,7 @@ form input{
     border: 4px solid white;
 }
 footer{
-    background: #F63232;
+    background: #410d6e;
     color: white;
     padding: 10px;
     text-align: center;
